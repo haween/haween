@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+#EXTINF:-1,NRT
+rtmp://live.karwan.tv:1935/gk-sport-tv
+
+#EXTINF:-1,Newroz
+rtmp://live.karwan.tv:1935/nalia-tv
+
+
+
+#EXTINF:-1,nalia2
+rtmp://live.karwan.tv:1935/nalia-2-tv
+
+
+#EXTINF:-1,Kurdsat New
+rtmp://live.karwan.tv:1935/geli-kurdistan-tv
+
+
+#EXTINF:-1,nalia
+rtmp://live.karwan.tv:1935/gem-kurd-tv
